@@ -1,0 +1,9 @@
+/home/user/SUBJECTS/Development Technics/Game_of_Life/build/CMakeFiles/rebuild_cache.dir
+/home/user/SUBJECTS/Development Technics/Game_of_Life/build/CMakeFiles/GameOfLife.dir
+/home/user/SUBJECTS/Development Technics/Game_of_Life/build/CMakeFiles/edit_cache.dir
+/home/user/SUBJECTS/Development Technics/Game_of_Life/build/Game/CMakeFiles/rebuild_cache.dir
+/home/user/SUBJECTS/Development Technics/Game_of_Life/build/Game/CMakeFiles/Game.dir
+/home/user/SUBJECTS/Development Technics/Game_of_Life/build/Game/CMakeFiles/edit_cache.dir
+/home/user/SUBJECTS/Development Technics/Game_of_Life/build/Console/CMakeFiles/rebuild_cache.dir
+/home/user/SUBJECTS/Development Technics/Game_of_Life/build/Console/CMakeFiles/Console.dir
+/home/user/SUBJECTS/Development Technics/Game_of_Life/build/Console/CMakeFiles/edit_cache.dir

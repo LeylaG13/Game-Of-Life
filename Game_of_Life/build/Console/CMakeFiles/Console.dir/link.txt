@@ -1,0 +1,2 @@
+/usr/bin/ar qc libConsole.a  CMakeFiles/Console.dir/ainsi_console.c.o
+/usr/bin/ranlib libConsole.a
