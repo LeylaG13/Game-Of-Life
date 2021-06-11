@@ -1,3 +1,23 @@
+/// @file main.c
+/// @mainpage
+/// **Developers:** Leyla Gasimova and Laman Mammadova
+///
+/// **Date:**  11th June, 2021
+///
+/// **How to run the programm:**
+///
+/// create folder named "build" (actually you can call it whatever, it is just a convention) \n
+/// enter the folder \n
+/// open the terminal and run the command: \n
+/// cmake .. \n
+/// if everything ran succesfully you can run next the command: \n
+/// ./GameOfLife \n
+/// then input the size of the board you want meaning its columns and rows \n
+/// the programm also will ask you which mode of the game you want to play clipped or circular \n
+/// For clipped enter 1 \n
+/// For circular enter 2 \n
+/// Enjoy :) \n
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
