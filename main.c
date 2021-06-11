@@ -14,8 +14,15 @@ int main()
     scanf("%d", &columns);
     puts("Enter number of rows: ");
     scanf("%d", &rows);
+
     puts("For mode clipped enter 1, for mode circular enter 2");
     scanf("%d", &mode);
+
+    while (mode != 1 && mode != 2)
+    {
+        puts("For mode clipped enter 1, for mode circular enter 2");
+        scanf("%d", &mode);
+    }
 
     int *arr[rows];
     for (int i = 0; i < rows; i++)

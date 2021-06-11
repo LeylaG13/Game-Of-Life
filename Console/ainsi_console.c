@@ -4,8 +4,8 @@
 
 void print(int **array, int rows, int columns)
 {
-    printf("\n");
-    // printf(clearscreen);
+    // printf("\n");
+    printf(clearscreen);
     for (int i = 0; i < rows; i++)
     {
         for (int j = 0; j < columns; j++)
