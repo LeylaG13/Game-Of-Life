@@ -1,3 +1,6 @@
+
+void print(int **array, int rows, int columns);
+
 //Regular text
 #define BLK "\e[0;30m"
 #define RED "\e[0;31m"
@@ -70,3 +73,4 @@
 
 //Reset
 #define reset "\e[0m"
+#define clearscreen "\e[1;1H\e[2J"
