@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/SUBJECTS/Development Technics/Game_of_Life/./Console/board_drawer.h
+
+/home/user/SUBJECTS/Development Technics/Game_of_Life/./Game/life.h
+
+/home/user/SUBJECTS/Development Technics/Game_of_Life/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+./Game/life.h
+/home/user/SUBJECTS/Development Technics/Game_of_Life/./Game/life.h
+./Console/board_drawer.h
+/home/user/SUBJECTS/Development Technics/Game_of_Life/./Console/board_drawer.h
+
